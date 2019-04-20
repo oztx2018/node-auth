@@ -1,0 +1,20 @@
+ul.success li {
+    padding: 15px;
+	width: 40rem;
+	height: 10rem;
+	margin-bottom: 20px;
+    box-shadow: 4px 4px 6px;
+    color: black;
+    background-color: #aeefce;
+    list-style: none;
+}
+
+ul.error li {
+	width: 40rem;
+	height: 10rem;
+	margin: 0 1rem;
+    box-shadow: 4px 4px 6px;
+    color: black;
+    background-color: #a94442;
+    list-style: none;
+}
